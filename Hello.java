@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+/************************
+*Java Program Name
+*************************
+*Student Name (first and last name)
+*Date Created 
+*Course Number and Section Number 
+************************/
+
+public class Hello {
+	public static void main(String[] args) {
+		
+		System.out.println("<Your Name>");
+		System.out.println("Java Program name>");
+		System.out.println("<Program/project description>");
+		System.out.println("<Date Created>");
+		System.out.println("<Course Number and Section Number>");
+		System.out.println();
+		
+	}
+}
